@@ -41,7 +41,6 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
    - **Techniques:** Spalart-Allmaras and k-omega SST models, RANS and DDES.
    - **Outcome:** Achieved close CFD-to-wind tunnel comparisons for specific Mach numbers; suggested future refinements to capture high-Mach separated flows.
 
-   ![ONERA M6 Wing Simulation](./images/onera-m6-simulation.png)
 
 ### 2. **Pump Intake Structure Design Optimization**
    - **Role:** CFD Engineer at SALT Design and Infra Services.
