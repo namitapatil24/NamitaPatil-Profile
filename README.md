@@ -79,7 +79,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
 ## 📬 Let’s Connect!
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/namita-rajendra-patil/) [![Email](gmail.png)](mailto:namitapatil1995@gmail.com)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/namita-rajendra-patil/)     [![Email](gmail.png)](mailto:namitapatil1995@gmail.com)
 
 ---
 
