@@ -61,7 +61,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 ### [🔹 Aerodynamic Analysis - ONERA M6](https://github.com/namitapatil24/Aerodynamic-Analysis-ONERA-M6)
 - Contains the full aerodynamic analysis and CFD validations of the ONERA M6 wing, including setup files, turbulence model comparisons, and Cp plots for multiple sections.
 
-### [🔹 Pump Intake Structure CFD](https://github.com/username/Pump-Intake-Structure)
+### [🔹 Pump Intake Structure CFD](https://github.com/namitapatil24/Pump-Intake-Structure-CFD)
 - Features a detailed analysis and design optimization of pump intake structures for hydraulic engineering applications, with ANSI/HI standards referenced.
 
 ---
