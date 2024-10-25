@@ -1,6 +1,6 @@
 # 👩‍💻 Namita | Aerospace & CFD Engineer
 
-![Profile Banner](./images/profile-banner.png)
+
 
 Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamics** and **Computational Fluid Dynamics (CFD)** with 4+ years of experience in multiphase flow analysis and complex CFD/CAE simulations. I hold an MSc in Aerospace Dynamics from Cranfield University, where I focused on **transonic aerodynamic design** and **validation of CFD results with wind tunnel data**.
 
