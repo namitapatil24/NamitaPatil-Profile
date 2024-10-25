@@ -1,4 +1,4 @@
-# 👩‍💻 Namita | Aerospace & CFD Engineer
+# 👩‍💻 Namita Patil | Aerospace & CFD Engineer
 
 
 
@@ -12,12 +12,12 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
 <div align="center">
 
-| 💻 Software Tools     | 🌬️ CFD Techniques       | 🛠️ Engineering Skills      |
+| 💻 Software Tools     | 🌊 CFD Techniques       | 🛠️ Engineering Skills      |
 |-----------------------|-------------------------|----------------------------|
 | ANSYS Fluent, CFX,     | RANS, DDES, FSI,         | Fluid Mechanics, Aerodynamics |
 | ICEM, CATIA V5        | Turbulence Modeling,     | Analytical calculations, |
 | MATLAB, LabView       | Spalart-Allmaras, k-omega SST | Pump Intake Design, |
-| Git, Linux, HPC       | Convergence,3D CAD Modeling| Aerodynamic Wing Design |
+| Git, Linux, HPC       | Convergence,3D CAD Modelling| Aerodynamic Wing Design |
 
 </div>
 
