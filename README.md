@@ -47,7 +47,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
    - **Scope:** Modeled and validated hydraulic structures to optimize pump intake designs, reducing vortices and improving pump efficiency.
    - **Outcome:** Enhanced structure designs and achieved compliance with ANSI/HI standards for 12 projects.
 
-   ![Pump Intake Simulation](./images/pump-intake-simulation.png)
+ 
 
 ### 3. **CFD Analysis for Aerospace Intern Project**
    - **Role:** Intern at Zeus Numerix.
