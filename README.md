@@ -64,6 +64,8 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 ### [🔹 Pump Intake Structure CFD](https://github.com/namitapatil24/Pump-Intake-Structure-CFD)
 - Features a detailed analysis and design optimization of pump intake structures for hydraulic engineering applications, with ANSI/HI standards referenced.
 
+### [🔹 Computational Fluid Dynamics for Missile Aerodynamics](https://github.com/namitapatil24/Computational-Fluid-Dynamics-for-Missile-Aerodynamics)
+- Showcases as assessment of different turbulence models in a RANS framework to capture high-speed flow behavior.
 ---
 
 ## 📈 Experience Summary
