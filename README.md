@@ -6,7 +6,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
 - 🌐 Based in the UK, originally from India.
 - 🌟 Actively seeking roles in **external aerodynamics** and **CFD applications**.
-- 💬 Let’s connect on all things **CFD**, **aerospace engineering**, and **fluid mechanics**!
+- 💬 Let’s connect on all things **CFD**, **aerospace engineering**, and **fluid dynamics**!
 
 ## 🔧 Technical Skills
 
