@@ -86,8 +86,8 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 ---
 
 ### ⚡ Fun Fact
-I have a keen interest in **aircraft aerodynamics** and am always excited to discuss the latest in **aircraft aerodynamics** and **CFD modeling**!
+I have a keen interest in **aircraft aerodynamics** and I am always excited to discuss the latest in **aircraft aerodynamics** and **CFD modelling**!
 
 ---
 
-*Last updated: October 2024*
+*Last updated: November 2024*
