@@ -14,7 +14,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
 | 💻 Software Tools     | 🌊 CFD Techniques       | 🛠️ Engineering Skills      |
 |-----------------------|-------------------------|----------------------------|
-| ANSYS Fluent, CFX,     | RANS, DDES, FSI        | Fluid Dynamics, Aerodynamics |
+| ANSYS Fluent, CFX     | RANS, DDES, FSI        | Fluid Dynamics, Aerodynamics |
 | ICEM, CATIA V5        | Turbulence Modeling     | Analytical calculations |
 | MATLAB, LabView, Python       | Spalart-Allmaras, k-omega SST | Pump Intake Design |
 | Git, Linux, HPC       | Convergence, 3D CAD Modelling| Aerodynamic Wing Design |
