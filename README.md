@@ -72,7 +72,7 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
 - **CFD Engineer, SALT Design and Infra Services**
   - Led 12 projects focusing on hydraulic CFD optimization and client engagement.
-- **Aerospace Intern, Zeus Numerix**
+- **Aerospace Engineer, Zeus Numerix**
   - Assisted in aerodynamic analyses and HVAC meshing tasks for aerospace applications.
 - **Sales Colleague, Currys, Bedford**
   - Developed customer relations and exceeded sales targets, gaining diverse skill experience.
