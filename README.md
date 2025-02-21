@@ -49,8 +49,8 @@ Hi there! I’m Namita, a Mechanical Engineer specialised in **Aerospace Dynamic
 
  
 
-### 3. **CFD Analysis for Aerospace Intern Project**
-   - **Role:** Intern at Zeus Numerix.
+### 3. **CFD Analysis for Aerospace Project**
+   - **Role:** Aerospace Engineer at Zeus Numerix.
    - **Scope:** Explored aerodynamic principles through CFD exercises for variable missile geometries, supporting HVAC projects and geometry cleanup using ICEM.
    - **Outcome:** Computed aerodynamic coefficients and meshed complex geometries for real-world applications.
 
